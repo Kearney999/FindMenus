@@ -1,0 +1,11 @@
+{
+  "MenuSettings": {
+    "title": "Courtyard",
+    "cuisine": "Bistro",
+    "establishmentType": "Restaurant",
+    "subtitle": "Your description will go here when you claim for free",
+    "tier": 0,
+    "sortOrder": 99
+  },
+  "MenuItems": []
+}

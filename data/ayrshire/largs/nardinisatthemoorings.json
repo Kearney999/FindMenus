@@ -1,0 +1,11 @@
+{
+  "MenuSettings": {
+    "title": "Nardinis at the Moorings",
+    "cuisine": "Cafe",
+    "establishmentType": "Cafe",
+    "subtitle": "Your description will go here when you claim for free",
+    "tier": 0,
+    "sortOrder": 99
+  },
+  "MenuItems": []
+}

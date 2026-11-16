@@ -1,0 +1,11 @@
+{
+  "MenuSettings": {
+    "title": "Barbeque Kings",
+    "cuisine": "Kebabs",
+    "establishmentType": "Takeaway",
+    "subtitle": "The ultimate, curry, kebabs and pizzas in the Largs area",
+    "tier": 0,
+    "sortOrder": 99
+  },
+  "MenuItems": []
+}
