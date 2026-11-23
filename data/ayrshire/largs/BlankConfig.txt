@@ -1,0 +1,46 @@
+{
+  "businessName": "",
+  "googleAnalyticsId": "",
+  "googlePlaceId": "",
+  "googleViewReviewsUrl": "https://search.google.com/local/reviews?placeid=",
+  "googleWriteReviewUrl": "https://search.google.com/local/writereview?placeid=",
+  "tripAdvisorUrl": "",
+  "facebook": "",
+  "CustomerHub": {},
+  "MenuSettings": {
+    "title": "",
+    "cuisine": "Chinese",
+    "establishmentType": "Takeaway",
+    "sortOrder": 20,
+    "subtitle": "",
+    "tier": 1,
+    "GeneralNotes": [
+      "All main meals exclude rice or chips unless stated otherwise.",
+      "Before ordering, please inform our staff if you have any allergies or dietary requirements."
+    ],
+    "showMenuPhotos": false
+  },
+  "Categories": [
+    {
+      "name": "",
+      "subtitle": "",
+      "footnote": ""
+    }
+  ],
+  "MenuItems": [
+    {
+      "id": "",
+      "title": "",
+      "description": "",
+      "category": "",
+      "smallPrice": null,
+      "largePrice": "",
+      "isGF": false,
+      "isV": false,
+      "isHighlighted": false,
+      "image": "",
+      "isSpicy": false,
+      "containsNuts": false
+    }
+  ]
+}
