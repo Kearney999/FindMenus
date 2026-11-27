@@ -6,16 +6,117 @@
   "googleWriteReviewUrl": "https://search.google.com/local/writereview?placeid=",
   "tripAdvisorUrl": "",
   "facebook": "",
-  "CustomerHub": {},
+  "CustomerHub": {
+    "title": "👋 Welcome to [Business Name] Customer Hub",
+    "subtitle": "",
+    "categories": [
+      {
+        "name": "Dining & Orders",
+        "items": [
+          {
+            "icon": "🔎",
+            "title": "Searchable Menu",
+            "description": "Search for any ingredient or meal, show Vegetarian or Gluten Free options only, and shortlist your favourite dishes.",
+            "buttonText": "Searchable Menu",
+            "link": "/[BusinessSlug]/hybridMenu_Searchable",
+            "show": true
+          },
+          {
+            "icon": "🍽️",
+            "title": "Photo Menu",
+            "description": "An interactive visual menu of all our meals. Search by name, ingredients, or dietary preferences.",
+            "buttonText": "Photo Menu",
+            "link": "/[BusinessSlug]/menu",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "Feedback & Reviews",
+        "items": [
+          {
+            "icon": "⭐",
+            "title": "Leave a Google Review",
+            "description": "Share your experience with future guests. We'd be so grateful, it really helps us!",
+            "buttonText": "Review Us",
+            "link": "https://search.google.com/local/writereview?placeid=",
+            "show": true
+          },
+          {
+            "icon": "🦉",
+            "title": "Leave a TripAdvisor Review",
+            "description": "Enjoyed your visit? Please leave us a review on TripAdvisor.",
+            "buttonText": "Review Us",
+            "link": "",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "Connect",
+        "items": [
+          {
+            "icon": "🌐",
+            "title": "Our Website",
+            "description": "Check out our website for more information, menus, and services.",
+            "buttonText": "Visit Website",
+            "link": "",
+            "show": false
+          },
+          {
+            "icon": "👥",
+            "title": "Our Facebook",
+            "description": "Join our Facebook page for updates, events, and community news.",
+            "buttonText": "Visit Facebook",
+            "link": "",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "We hope you find helpful",
+        "items": [
+          {
+            "icon": "🚕",
+            "title": "Call a taxi",
+            "description": "Find our trusted local taxi services. One button ring!",
+            "Taxis": [
+              {
+                "name": "",
+                "phone": "",
+                "note": ""
+              }
+            ],
+            "buttonText": "Taxis",
+            "link": "#taxi-modal",
+            "show": false
+          },
+          {
+            "icon": "🚌",
+            "title": "McGills Bus Tracker",
+            "description": "This will take you to the local bus service, and you can track the bus via GPS.",
+            "buttonText": "Track Bus",
+            "link": "https://www.mcgillsbuses.co.uk/services/McG/901",
+            "show": false
+          }
+        ]
+      }
+    ]
+  },
   "MenuSettings": {
     "title": "",
-    "cuisine": "Chinese",
-    "establishmentType": "Takeaway",
+    "cuisine": "",
+    "establishmentType": "",
     "sortOrder": 20,
     "subtitle": "",
     "tier": 1,
+    "telephone": "",
+    "website": "",
+    "orderUrl": "",
+    "openingHours": [
+      ""
+    ],
     "GeneralNotes": [
-      "All main meals exclude rice or chips unless stated otherwise.",
       "Before ordering, please inform our staff if you have any allergies or dietary requirements."
     ],
     "showMenuPhotos": false
