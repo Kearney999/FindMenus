@@ -340,7 +340,7 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": true,
+      "isSpicy": false,
       "containsNuts": false
     },
     {
@@ -386,8 +386,8 @@
       "containsNuts": false
     },
     {
-      "id": "chicken-curry-rice-roll-3",
-      "title": "Chicken Curry Rice Roll (3)",
+      "id": "chicken-curry-rice-roll-2",
+      "title": "Chicken Curry Rice Roll (2)",
       "description": "",
       "category": "Appetisers",
       "smallPrice": null,
@@ -396,12 +396,12 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": true,
+      "isSpicy": false,
       "containsNuts": false
     },
     {
-      "id": "satay-chicken-5",
-      "title": "Satay Chicken (5)",
+      "id": "satay-chicken-3",
+      "title": "Satay Chicken (3)",
       "description": "",
       "category": "Appetisers",
       "smallPrice": null,
@@ -414,8 +414,8 @@
       "containsNuts": true
     },
     {
-      "id": "satay-king-prawn-4",
-      "title": "Satay King Prawn (4)",
+      "id": "satay-king-prawn-2",
+      "title": "Satay King Prawn (2)",
       "description": "",
       "category": "Appetisers",
       "smallPrice": null,
@@ -694,8 +694,8 @@
       "containsNuts": false
     },
     {
-      "id": "salt-chilli-chicken-balls-7",
-      "title": "Salt & Chilli Chicken Balls (7)",
+      "id": "salt-chilli-chicken-balls",
+      "title": "Salt & Chilli Chicken Balls",
       "description": "",
       "category": "Salt & Chilli",
       "smallPrice": null,
@@ -816,7 +816,7 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": true,
+      "isSpicy": false,
       "containsNuts": false
     },
     {
@@ -886,7 +886,7 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": false,
+      "isSpicy": true,
       "containsNuts": false
     },
     {
@@ -998,7 +998,7 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": true,
+      "isSpicy": false,
       "containsNuts": true
     },
     {
@@ -1787,7 +1787,7 @@
     },
     {
       "id": "chicken-satay-on-skewers",
-      "title": "Chicken Satay on Skewers",
+      "title": "Chicken Satay on Skewers (5)",
       "description": "",
       "category": "Satay",
       "smallPrice": null,
@@ -1815,7 +1815,7 @@
     },
     {
       "id": "beef-satay-on-skewers",
-      "title": "Beef Satay on Skewers",
+      "title": "Beef Satay on Skewers (5)",
       "description": "",
       "category": "Satay",
       "smallPrice": null,
@@ -1871,7 +1871,7 @@
     },
     {
       "id": "combination-satay-on-skewers",
-      "title": "Combination Satay on Skewers",
+      "title": "Combination Satay on Skewers (5)",
       "description": "",
       "category": "Satay",
       "smallPrice": null,
@@ -1885,7 +1885,7 @@
     },
     {
       "id": "char-siu-satay",
-      "title": "Char Siu Satay",
+      "title": "Char Siu Satay (Wok Fried)",
       "description": "",
       "category": "Satay",
       "smallPrice": null,
@@ -1955,7 +1955,7 @@
     },
     {
       "id": "pork-hong-kong-style",
-      "title": "Pork Hong Kong Style",
+      "title": "Pork Hong Kong Style (Not battered",
       "description": "",
       "category": "Sweet & Sour",
       "smallPrice": null,
@@ -2273,7 +2273,7 @@
       "isHighlighted": false,
       "image": "",
       "isSpicy": true,
-      "containsNuts": false
+      "containsNuts": true
     },
     {
       "id": "singapore-chicken-chow-mein",
@@ -2287,7 +2287,7 @@
       "isHighlighted": false,
       "image": "",
       "isSpicy": true,
-      "containsNuts": false
+      "containsNuts": true
     },
     {
       "id": "mixed-vegetables-chow-mein",
@@ -2454,7 +2454,7 @@
       "isV": false,
       "isHighlighted": false,
       "image": "",
-      "isSpicy": false,
+      "isSpicy": true,
       "containsNuts": false
     },
     {
@@ -2679,7 +2679,7 @@
       "isHighlighted": false,
       "image": "",
       "isSpicy": true,
-      "containsNuts": false
+      "containsNuts": true
     },
     {
       "id": "singapore-chicken-fried-rice",
@@ -2693,7 +2693,7 @@
       "isHighlighted": false,
       "image": "",
       "isSpicy": true,
-      "containsNuts": false
+      "containsNuts": true
     },
     {
       "id": "yung-chow-fried-rice",
@@ -3025,7 +3025,7 @@
       "smallPrice": null,
       "largePrice": "3.00",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": true,
@@ -3039,7 +3039,7 @@
       "smallPrice": null,
       "largePrice": "3.00",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3053,7 +3053,7 @@
       "smallPrice": null,
       "largePrice": "3.10",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3067,7 +3067,7 @@
       "smallPrice": null,
       "largePrice": "3.10",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3095,7 +3095,7 @@
       "smallPrice": null,
       "largePrice": "3.10",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3109,7 +3109,7 @@
       "smallPrice": null,
       "largePrice": "3.50",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3123,7 +3123,7 @@
       "smallPrice": null,
       "largePrice": "5.30",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3137,7 +3137,7 @@
       "smallPrice": null,
       "largePrice": "5.30",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3151,7 +3151,7 @@
       "smallPrice": null,
       "largePrice": "5.50",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3165,7 +3165,7 @@
       "smallPrice": null,
       "largePrice": "5.30",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,
@@ -3179,7 +3179,7 @@
       "smallPrice": null,
       "largePrice": "5.50",
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "isHighlighted": false,
       "image": "",
       "isSpicy": false,

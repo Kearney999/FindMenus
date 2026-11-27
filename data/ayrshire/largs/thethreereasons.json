@@ -4,15 +4,13 @@
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "4.50",
       "title": "Traditional Homemade Soup Of The Day",
       "id": "traditional-homemade-soup-of-the-day",
       "image": "",
       "description": "With toasted ciabatta.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -23,52 +21,44 @@
       "title": "North Atlantic Prawns",
       "id": "north-atlantic-prawns",
       "image": "/images/menu/PrawnCocktail.webp",
-      "description": "Available upon request. With Marie Rose sauce and wholemeal bread. Gluten free available on request.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "With Marie Rose sauce and wholemeal bread. Gluten free available on request.",
+      "category": "Starters"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": false,
+      "isGF": true,
       "isV": true,
       "largePrice": "6.50",
       "title": "Buffalo Cauliflower",
       "id": "buffalo-cauliflower",
       "image": "",
       "description": "In spicy tempura batter with buttery buffalo sauce, celery and cool ranch dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": false,
+      "isGF": true,
       "isV": false,
       "largePrice": "7.95",
       "title": "Garlic King Prawns",
       "id": "garlic-king-prawns",
       "image": "",
       "description": "In hot herby garlic butter served with toasted ciabatta.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": false,
+      "isGF": true,
       "isV": false,
       "largePrice": "6.95",
       "title": "Chicken Wings",
       "id": "chicken-wings",
       "image": "",
       "description": "Tossed in buttery buffalo sauce with cool ranch dip and celery sticks.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -80,9 +70,7 @@
       "id": "sliders",
       "image": "",
       "description": "Two mini beefburgers topped with cheese, diced onion, gherkin and burger sauce.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -94,9 +82,7 @@
       "id": "haggis-fritters",
       "image": "",
       "description": "Served with peppercorn sauce.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -107,10 +93,8 @@
       "title": "Mexican Quesadillas - Chicken Breast",
       "id": "mexican-quesadillas-chicken",
       "image": "",
-      "description": "Cheddar cheese and jalape\u00F1o sauce in a toasted tortilla with sour cream and salsa dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Cheddar cheese and jalapeño sauce in a toasted tortilla with sour cream and salsa dip.",
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -121,10 +105,8 @@
       "title": "Mexican Quesadillas - Grilled Vegetables",
       "id": "mexican-quesadillas-veg",
       "image": "",
-      "description": "Cheddar cheese and jalape\u00F1o sauce in a toasted tortilla with sour cream and salsa dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Cheddar cheese and jalapeño sauce in a toasted tortilla with sour cream and salsa dip.",
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -136,9 +118,7 @@
       "id": "mozzarella-sticks",
       "image": "",
       "description": "Served with sweet chilli dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -150,9 +130,7 @@
       "id": "homemade-pakora-chicken",
       "image": "",
       "description": "Served with a tangy yoghurt dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": null,
@@ -164,9 +142,7 @@
       "id": "homemade-pakora-mushroom",
       "image": "",
       "description": "Served with a tangy yoghurt dip.",
-      "category": "Starters",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Starters"
     },
     {
       "smallPrice": "9.95",
@@ -178,9 +154,7 @@
       "id": "scottish-steak-pie",
       "image": "/images/menu/SteakPie.webp",
       "description": "Prime Scotch beef steak in our rich gravy, crowned with flaky puff pastry, with fresh vegetables and fries or potatoes.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "10.95",
@@ -192,9 +166,7 @@
       "id": "breaded-whole-tail-scampi",
       "image": "/images/menu/Scampi.webp",
       "description": "With fries, salad, coleslaw, lemon wedge and tartare sauce dip.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "11.95",
@@ -206,9 +178,7 @@
       "id": "fresh-fillet-of-haddock",
       "image": "/images/menu/Haddock.webp",
       "description": "Available in beer batter or breadcrumbs, with fries, salad and coleslaw, lemon wedge and tartare sauce.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "9.95",
@@ -220,9 +190,7 @@
       "id": "buttermilk-chicken-fillets",
       "image": "",
       "description": "With fries, salad, coleslaw and choice of dips.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "9.45",
@@ -234,9 +202,7 @@
       "id": "chilli-con-carne",
       "image": "/images/menu/Chilli.webp",
       "description": "Just tell us how you want it - Mild, Medium, Hot or Mental. Served with rice and pitta bread. Add a side of sour cream 75p. Available with steak mince or beans and vegetable.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "9.30",
@@ -248,9 +214,7 @@
       "id": "homemade-lasagne",
       "image": "",
       "description": "Served with salad, coleslaw and garlic bread.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "8.60",
@@ -261,10 +225,8 @@
       "title": "Macaroni Cheese",
       "id": "macaroni-cheese",
       "image": "/images/menu/mac.webp",
-      "description": "Finished under the grill and served with salad, coleslaw and fries. Why not add a bit extra on top: Choose from crispy bacon, crumbled haggis, jalape\u00F1os, crispy onions or fresh chillies - \u00A31.25 per topping.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Finished under the grill and served with salad, coleslaw and fries. Why not add a bit extra on top: Choose from crispy bacon, crumbled haggis, jalapeños, crispy onions or fresh chillies - £1.25 per topping.",
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": "11.35",
@@ -276,9 +238,7 @@
       "id": "chicken-caledonian",
       "image": "/images/menu/Caledonianchicken.webp",
       "description": "Breast of chicken on a bed of haggis served with peppercorn sauce, vegetables and fries or potatoes.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
@@ -286,27 +246,23 @@
       "isGF": false,
       "isV": false,
       "largePrice": "12.95",
-      "title": "Salt \u0027n\u0027 Chilli Chicken And Chips",
+      "title": "Salt 'n' Chilli Chicken And Chips",
       "id": "salt-n-chilli-chicken",
       "image": "",
       "description": "Tossed with peppers and onions and served with a side of curry sauce.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": false,
+      "isGF": true,
       "isV": true,
       "largePrice": "12.95",
-      "title": "Salt \u0027n\u0027 Chilli Falafel Bites",
+      "title": "Salt 'n' Chilli Falafel Bites",
       "id": "salt-n-chilli-falafel",
       "image": "",
       "description": "Tossed with peppers and onions and served with a side of curry sauce.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
@@ -318,121 +274,103 @@
       "id": "katsu-curry",
       "image": "",
       "description": "Available upon request. Katsu curry, with crispy chicken strips or fresh vegetables in a fruity medium Japanese-style sauce with rice and flatbread.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
+    },
+    {
+      "smallPrice": null,
+      "isHighlighted": false,
+      "isGF": false,
+      "isV": true,
+      "largePrice": "11.95",
+      "title": "Chinese-Style Curry",
+      "id": "chinese-style-curry",
+      "image": "",
+      "description": "Available upon request. Chicken with onions served with rice and flat bread.",
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
       "isV": false,
-      "largePrice": "11.95",
-      "title": "Chinese-Style Curry",
-      "id": "chinese-style-curry",
-      "image": "",
-      "description": "Available upon request. Chicken with onions served with rice and flat bread.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
-    },
-    {
-      "smallPrice": null,
-      "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
       "largePrice": "10.95",
       "title": "Traditional House Salad - Cheddar Cheese or Ayrshire Ham",
       "id": "traditional-house-salad-cheddar",
       "image": "",
       "description": "A selection of salad, coleslaw and pickles served with a baked potato with Cheddar cheese or Ayrshire ham.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
+      "isGF": false,
       "isV": false,
       "largePrice": "12.95",
       "title": "Traditional House Salad - Prawn Marie Rose",
       "id": "traditional-house-salad-prawn",
       "image": "",
       "description": "A selection of salad, coleslaw and pickles served with a baked potato with Prawn Marie Rose.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Traditional Favourites"
+    },
+    {
+      "smallPrice": null,
+      "isHighlighted": false,
+      "isGF": false,
+      "isV": true,
+      "largePrice": "8.45",
+      "title": "Classic Caesar",
+      "id": "classic-caesar",
+      "image": "",
+      "description": "Creamy dressing with lettuce, croutons and topped with shaved parmesan.",
+      "category": "Traditional Favourites"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
       "isV": false,
-      "largePrice": "8.45",
-      "title": "Classic Caesar",
-      "id": "classic-caesar",
-      "image": "",
-      "description": "Creamy dressing with lettuce, croutons and topped with shaved parmesan. Add grilled chicken breast \u00A33.50, Add crispy bacon \u00A31.50.",
-      "category": "Traditional Favourites",
-      "isSpicy": false,
-      "containsNuts": false
-    },
-    {
-      "smallPrice": null,
-      "isHighlighted": false,
-      "isGF": true,
-      "isV": false,
       "largePrice": "18.95",
       "title": "Mature Scottish Popeseye Steak",
       "id": "mature-scottish-popseye-steak",
       "image": "/images/menu/Popseye.webp",
-      "description": "Approx 200g, cooked medium. Please advise if you would like it cooked longer. Served with a grilled vegetable skewer or Caesar salad, a sauce of your choice and either a baked potato or chips.",
-      "category": "Char Grill Specialities",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Approx 200g, cooked medium. Please advise if you would like it cooked longer.",
+      "category": "Char Grill Specialities"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
+      "isGF": false,
       "isV": false,
       "largePrice": "14.95",
       "title": "Grilled Chicken Breast",
       "id": "grilled-chicken-beast",
       "image": "",
-      "description": "Freshly cooked to order. Piri or Cajun add \u00A31.00. Served with a grilled vegetable skewer or Caesar salad, a sauce of your choice and either a baked potato or chips.",
-      "category": "Char Grill Specialities",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Piri or Cajun add £1.00.",
+      "category": "Char Grill Specialities"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
+      "isGF": false,
       "isV": false,
       "largePrice": "16.95",
       "title": "King Prawn Skewers",
       "id": "king-prawn-skewers",
       "image": "",
-      "description": "Freshly cooked to order. Piri or Cajun add \u00A31.00. Served with a grilled vegetable skewer or Caesar salad, a sauce of your choice and either a baked potato or chips.",
-      "category": "Char Grill Specialities",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Piri or Cajun add £1.00.",
+      "category": "Char Grill Specialities"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
+      "isGF": false,
       "isV": true,
       "largePrice": "12.95",
       "title": "Cauliflower Steak",
       "id": "cauliflower-steak",
       "image": "",
-      "description": "Freshly cooked to order. Piri or Cajun add \u00A31.00. Served with a grilled vegetable skewer or Caesar salad, a sauce of your choice and either a baked potato or chips.",
-      "category": "Char Grill Specialities",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Piri or Cajun add £1.00.",
+      "category": "Char Grill Specialities"
     },
     {
       "smallPrice": null,
@@ -443,10 +381,8 @@
       "title": "Steak Burger (4oz)",
       "id": "steak-burger-4oz",
       "image": "",
-      "description": "Uniquely seasoned and hand prepared for us by local butcher A.D. Paton. Served with salad, chips and side of coleslaw.",
-      "category": "Burgers",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Uniquely seasoned and hand prepared for us by local butcher A.D. Paton.",
+      "category": "Burgers"
     },
     {
       "smallPrice": null,
@@ -457,10 +393,8 @@
       "title": "Steak Burger (8oz)",
       "id": "steak-burger-8oz",
       "image": "",
-      "description": "Uniquely seasoned and hand prepared for us by local butcher A.D. Paton. Served with salad, chips and side of coleslaw.",
-      "category": "Burgers",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Uniquely seasoned and hand prepared for us by local butcher A.D. Paton.",
+      "category": "Burgers"
     },
     {
       "smallPrice": null,
@@ -471,10 +405,8 @@
       "title": "Chicken Breast Fillet Burger",
       "id": "chicken-breast-fillet-burger",
       "image": "",
-      "description": "Char-grilled to order, available plain or cajun. Served with salad, chips and side of coleslaw.",
-      "category": "Burgers",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Char-grilled to order, available plain or cajun.",
+      "category": "Burgers"
     },
     {
       "smallPrice": null,
@@ -485,10 +417,8 @@
       "title": "Buttermilk Fried Chicken Fillet Burger",
       "id": "buttermilk-fried-chicken-burger",
       "image": "",
-      "description": "Breaded chicken breast fillet. Served with salad, chips and side of coleslaw.",
-      "category": "Burgers",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Breaded chicken breast fillet.",
+      "category": "Burgers"
     },
     {
       "smallPrice": null,
@@ -499,10 +429,8 @@
       "title": "Moving Mountains Vegan Burger",
       "id": "moving-mountains-vegan-burger",
       "image": "",
-      "description": "Served with salad, chips and side of coleslaw.",
-      "category": "Burgers",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "",
+      "category": "Burgers"
     },
     {
       "smallPrice": null,
@@ -513,10 +441,8 @@
       "title": "Signature Steak Flatbread",
       "id": "signature-flatbread",
       "image": "/images/menu/Flatbread.webp",
-      "description": "Shredded steak, onions, mushrooms and pepper sauce. All served with fries, coleslaw and salad garnish.",
-      "category": "Loaded Flat Breads",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Shredded steak, onions, mushrooms and pepper sauce.",
+      "category": "Loaded Flat Breads"
     },
     {
       "smallPrice": null,
@@ -527,10 +453,8 @@
       "title": "Chilli Cheese Steak Flatbread",
       "id": "chilli-cheese-steak-flatbread",
       "image": "",
-      "description": "Shredded steak, onions, peppers with chilli jam and melted mozzarella. All served with fries, coleslaw and salad garnish.",
-      "category": "Loaded Flat Breads",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Shredded steak, onions, peppers with chilli jam and melted mozzarella.",
+      "category": "Loaded Flat Breads"
     },
     {
       "smallPrice": null,
@@ -541,10 +465,8 @@
       "title": "South West Buttermilk Fried Chicken Flatbread",
       "id": "south-west-chicken-flatbread",
       "image": "",
-      "description": "Bacon, barbecue sauce and melted cheese. All served with fries, coleslaw and salad garnish.",
-      "category": "Loaded Flat Breads",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Bacon, barbecue sauce and melted cheese.",
+      "category": "Loaded Flat Breads"
     },
     {
       "smallPrice": null,
@@ -555,24 +477,20 @@
       "title": "Caribbean Chicken Flatbread",
       "id": "caribbean-chicken-flatbread",
       "image": "",
-      "description": "Shredded crispy chicken in a mango curry sauce. All served with fries, coleslaw and salad garnish.",
-      "category": "Loaded Flat Breads",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Shredded crispy chicken in a mango curry sauce.",
+      "category": "Loaded Flat Breads"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": false,
+      "isV": true,
       "largePrice": "12.95",
-      "title": "Flamin\u0027 Fajitas Flatbread - Steak, Chicken or Veggie",
+      "title": "Flamin' Fajitas Flatbread - Steak, Chicken or Veggie",
       "id": "flamin-fajitas-flatbread",
       "image": "",
-      "description": "Onions, peppers, mushrooms, salsa and cheese. All served with fries, coleslaw and salad garnish.",
-      "category": "Loaded Flat Breads",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Onions, peppers, mushrooms, salsa and cheese.",
+      "category": "Loaded Flat Breads"
     },
     {
       "smallPrice": null,
@@ -580,13 +498,11 @@
       "isGF": true,
       "isV": false,
       "largePrice": "7.50",
-      "title": "Ayrshire Cheddar \u0026 Grilled Smoked Bacon",
+      "title": "Ayrshire Cheddar & Grilled Smoked Bacon",
       "id": "deli-cheddar-bacon",
       "image": "",
-      "description": "Ayrshire cheddar with grilled smoked bacon and chilli jam. Served in toasted ciabatta, gluten-free ciabatta or toasted bloomer bread with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Ayrshire cheddar with grilled smoked bacon and chilli jam.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
@@ -594,13 +510,11 @@
       "isGF": true,
       "isV": true,
       "largePrice": "7.50",
-      "title": "Goat\u0027s Cheese with Caramelised Onion",
+      "title": "Goat's Cheese with Caramelised Onion",
       "id": "deli-goats-cheese",
       "image": "",
-      "description": "Goat\u0027s cheese with caramelised onion. Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Goat's cheese with caramelised onion.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
@@ -611,10 +525,8 @@
       "title": "Grilled Cajun Chicken",
       "id": "deli-cajun-chicken",
       "image": "",
-      "description": "Grilled Cajun chicken with pickled peppers and mozzarella. Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Grilled Cajun chicken with pickled peppers and mozzarella.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
@@ -625,24 +537,20 @@
       "title": "Prawn Marie Rose",
       "id": "deli-prawn-marie-rose",
       "image": "",
-      "description": "Prawn Marie Rose with shredded iceberg lettuce. Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Prawn Marie Rose with shredded iceberg lettuce.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
+      "isGF": false,
       "isV": true,
       "largePrice": "5.50",
       "title": "Cheddar Cheese",
       "id": "deli-cheddar",
       "image": "",
-      "description": "Cheddar cheese. Add Ayrshire ham (\u00A31.50). Add pickle, tomato or onion (\u00A31.00). Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Cheddar cheese. Add Ayrshire ham (£1.50). Add pickle, tomato or onion (£1.00).",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
@@ -653,248 +561,212 @@
       "title": "Fish Finger Sandwich",
       "id": "deli-fish-finger",
       "image": "",
-      "description": "Fresh haddock goujons, shredded iceberg lettuce and tartare sauce. Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Fresh haddock goujons, shredded iceberg lettuce and tartare sauce.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": true,
-      "isV": true,
+      "isV": false,
       "largePrice": "7.50",
       "title": "Tomato, Pesto and Mozzarella",
       "id": "deli-tomato-pesto",
       "image": "",
-      "description": "Tomato, pesto and mozzarella. Served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "category": "The Deli",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Tomato, pesto and mozzarella.",
+      "category": "The Deli"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "5.95",
       "title": "Kids Menu",
       "id": "kids-menu",
       "image": "",
       "description": "Choose your MAIN: Chicken Goujons, Pasta Bolognese, Pork Sausages, Burger, Cod Fillet Fingers, Cheeseburger, or Macaroni Cheese. Then Choose your SIDE: Salad, Vegetables or Beans, And EITHER : Chips, Potatoes or Garlic Bread.",
-      "category": "Kids Menu",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Kids Menu"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "4.00",
       "title": "Side Order of Chips",
       "id": "chips-side",
       "image": "",
       "description": "Standard portion of fries/chips.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "4.75",
       "title": "Cajun Chips",
       "id": "cajun-chips",
       "image": "",
       "description": "Fries dusted with Cajun spices.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "5.50",
-      "title": "Chips \u0027n\u0027 Cheese",
+      "title": "Chips 'n' Cheese",
       "id": "chips-n-cheese",
       "image": "",
       "description": "Fries topped with melted cheese.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "4.75",
-      "title": "Salt \u0027n\u0027 Chilli Chips",
+      "title": "Salt 'n' Chilli Chips",
       "id": "salt-n-chilli-chips-side",
       "image": "",
       "description": "Fries tossed in salt and chilli seasoning.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "3.50",
       "title": "Potatoes",
       "id": "potatoes",
       "image": "",
       "description": "Side of potatoes.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "3.95",
       "title": "Fresh Vegetables",
       "id": "fresh-vegetables",
       "image": "",
       "description": "Freshly prepared seasonal vegetables.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "3.00",
       "title": "Small Side Salad",
       "id": "small-side-salad",
       "image": "",
       "description": "Freshly dressed green salad garnish.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "2.95",
       "title": "Homemade Coleslaw",
       "id": "homemade-coleslaw",
       "image": "",
       "description": "House-made creamy coleslaw.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "3.95",
       "title": "Garlic Bread",
       "id": "garlic-bread",
       "image": "",
       "description": "Toasted garlic bread slice.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "5.50",
       "title": "Garlic Bread with Mozzarella",
       "id": "garlic-bread-with-mozzarella",
       "image": "",
       "description": "Topped with melted mozzarella cheese.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "3.50",
       "title": "Jug of Sauce",
       "id": "jug-of-sauce",
       "image": "",
       "description": "Choice of Gravy, Peppercorn, Curry.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
-      "isGF": true,
-      "isV": true,
+      "isGF": false,
+      "isV": false,
       "largePrice": "1.25",
       "title": "Additional Dips",
       "id": "additional-dips",
       "image": "",
       "description": "Choice of dipping sauce.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "1.50",
       "title": "Bread and Butter",
       "id": "bread-and-butter",
       "image": "",
       "description": "Fresh bread and butter portion.",
-      "category": "Sides",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Sides"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "6.50",
       "title": "Seasonal Berry Sundae",
       "id": "seasonal-berry-sundae",
       "image": "/images/menu/Sundae2.webp",
       "description": "Vanilla ice cream layered with seasonal berry compote topped with whipped cream.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "5.95",
       "title": "Caramel Apple Granny",
       "id": "caramel-apple-granny",
       "image": "",
       "description": "Choose from cream, custard or ice cream.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
@@ -906,23 +778,19 @@
       "id": "millionaire-sundae",
       "image": "",
       "description": "Cubes of caramel shortcake with vanilla ice cream and toffee sauce. Topped with whipped cream and a wafer.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": false,
-      "isV": true,
+      "isV": false,
       "largePrice": "5.95",
       "title": "Sticky Toffee Pudding",
       "id": "sticky-toffee-pudding",
       "image": "",
       "description": "With toffee sauce, choose from cream, custard or ice cream.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
@@ -934,9 +802,7 @@
       "id": "cheese-cake-of-the-day",
       "image": "/images/menu/CheeseCake.webp",
       "description": "With cream, ice cream or both.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
@@ -948,50 +814,270 @@
       "id": "hot-chocolate-fudge-cake",
       "image": "/images/menu/Fudgecake.webp",
       "description": "With cream, ice cream or both.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "category": "Desserts"
     },
     {
       "smallPrice": null,
       "isHighlighted": false,
       "isGF": true,
-      "isV": true,
+      "isV": false,
       "largePrice": "2.85",
       "title": "Dairy Ice Cream (1 Scoop)",
       "id": "dairy-ice-cream-1-scoop",
       "image": "",
-      "description": "1 Scoop \u00A32.85. Additional scoops \u00A32.00. Sauce or marshmallows \u00A31.00.",
-      "category": "Desserts",
-      "isSpicy": false,
-      "containsNuts": false
+      "description": "Additional scoops £2.00. Sauce or marshmallows £1.00.",
+      "category": "Desserts"
     }
   ],
   "MenuSettings": {
     "title": "The Three Reasons",
-    "cuisine": "Mix",
-    "establishmentType": "Pub",
-    "sortOrder": 10,
-    "subtitle": "Rated 3rd out of 720 restaurant in Ayrshire on Tripadvisor",
+    "subtitle": "Rated 3rd out of 720 restaurants in thw whole Ayrshire on Tripadvisor",
     "tier": 2,
     "telephone": "01475 672330",
-    "googlePlaceId": "ChIJXXvw3wG5iUgRKaCJ0OPH6oI",
-    "website": "www.thethreereasons.co.uk",
+    "website": "https://www.thethreereasons.co.uk",
     "orderUrl": "",
     "openingHours": [
-      "Mon\u2013Sat: 11:00 AM \u2013 7:00 PM",
-      "Sun: 12:30 PM \u2013 7:00 PM"
+      "Mon–Sat: 11:00 – 19:00",
+      "Sun: 12:30 – 19:00"
     ],
     "GeneralNotes": [
       "Gluten Free Freedom (GF) - Please note, dishes marked GF can be made gluten free on request only.",
       "Vegetarian (V) - Please make us aware of any special dietary requirements and we will do our best to assist you.",
-      "ADD A BUCKET OF FRIES TO ANY MAIN \u00A33.00",
+      "ADD A BUCKET OF FRIES TO ANY MAIN £3.00",
       "OUTSIDE CATERING AVAILABLE - ASK FOR DETAILS",
       "ALTERATIONS TO DISHES MAY INCUR A CHARGE",
       "PLEASE NOTE THAT FULL INFORMATION IS AVAILABLE ON ALL ALLERGENS CONTAINED WITHIN OUR DISHES. PLEASE ASK A MEMBER OF OUR TEAM.",
       "ALL PRICES INCLUDE VAT AT THE CURRENT RATE. ALL DISHES ARE SUBJECT TO AVAILABILITY."
     ],
     "showMenuPhotos": false
+  },
+  "facebook": "https://www.facebook.com/TheThreeReasonsLargs/",
+  "googleAnalyticsId": "G-82BPPF9JJD",
+  "googlePlaceId": "ChIJXXvw3wG5iUgRKaCJ0OPH6oI",
+  "businessName": "The Three Reasons",
+  "googleWriteReviewUrl": "https://search.google.com/local/writereview?placeid=",
+  "googleViewReviewsUrl": "https://search.google.com/local/reviews?placeid=",
+  "tripAdvisorUrl": "https://www.tripadvisor.co.uk/UserReviewEdit-g551771-d7236393-The_Three_Reasons-Largs_North_Ayrshire_Ayrshire_Scotland.html",
+  "CustomerHub": {
+    "title": "👋 Welcome to The Three Reasons Customer Hub",
+    "subtitle": "We have a traditional online menu, and a searchable, favourite tagging menu we hope you like. We'd really appreciate leaving a review if you have a google or TripAdvisor account. If you have already done so, thank you so much, it really make a difference. P.S. We love photos!😍",
+    "categories": [
+      {
+        "name": "Dining & Orders",
+        "items": [
+          {
+            "icon": "📖",
+            "title": "Table Menu",
+            "description": "Full food, dessert, and drinks selection.",
+            "buttonText": "Table Menu",
+            "link": "/ThreeReasons/tableMenu",
+            "show": false
+          },
+          {
+            "icon": "🍽️",
+            "title": "Photo Menu",
+            "description": "An interactive visual menu of all our meals, desserts and more. Search by name, ingredients, or dietary preferences.",
+            "buttonText": "Searchable Menu",
+            "link": "/ThreeReasons/menu",
+            "show": false
+          },
+          {
+            "icon": "📖",
+            "title": "Hybrid Menu",
+            "description": "Traditional Menu with clickable headers show photos.",
+            "buttonText": "Hybrid Menu",
+            "link": "/ThreeReasons/hybridMenu",
+            "show": false
+          },
+          {
+            "icon": "🔎",
+            "title": "Menu",
+            "description": "Search for any ingredient or meal, show Vegatarian or Gluten Free options only, and shortlist your favourite dishes.",
+            "buttonText": "Menu",
+            "link": "/ThreeReasons/hybridMenu_Searchable",
+            "show": true
+          },
+          {
+            "icon": "🥣",
+            "title": "Soup of the Day",
+            "description": "Please ask the staff, or refer to the daily specials board.",
+            "show": false
+          },
+          {
+            "icon": "🥩",
+            "title": "Today's Specials Board",
+            "description": "Please refer to our specials board for today's chef's specials.",
+            "buttonText": "View Specials",
+            "link": "#specials-modal",
+            "show": false
+          },
+          {
+            "icon": "🍷",
+            "title": "Wine & Food Pairing",
+            "description": "Discover the perfect wine to match your meal.",
+            "buttonText": "Explore Pairings",
+            "link": "/hub/wine-guide",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "Feedback & Reviews",
+        "items": [
+          {
+            "icon": "🙋",
+            "title": "The Team that joins all the cogs together",
+            "description": "Meet our amazing staff",
+            "buttonText": "Our Staff",
+            "link": "https://g.page/r/YOUR_GOOGLE_REVIEW_LINK/review",
+            "show": false
+          },
+          {
+            "icon": "⭐",
+            "title": "Leave a Google Review",
+            "description": "Share your experience with future guests. We'd be so grateful, it really helps us!",
+            "buttonText": "Review Us",
+            "link": "https://search.google.com/local/writereview?placeid=ChIJXXvw3wG5iUgRKaCJ0OPH6oI",
+            "show": true
+          },
+          {
+            "icon": "🦉",
+            "title": "Leave a TripAdvisor Review",
+            "description": "We are currently 3rd in all of Ayrshire on TripAdvisor, and would love to stay there! Please leave a review.",
+            "buttonText": "Review Us",
+            "link": "https://www.tripadvisor.co.uk/UserReviewEdit-g551771-d7236393-The_Three_Reasons-Largs_North_Ayrshire_Ayrshire_Scotland.html",
+            "show": true
+          },
+          {
+            "icon": "💫",
+            "title": "Staff Feedback",
+            "description": "Share your experience with our great staff. We'd love to hear your thoughts!",
+            "buttonText": "Review Our Staff",
+            "link": "https://g.page/r/YOUR_GOOGLE_REVIEW_LINK/review",
+            "show": false
+          },
+          {
+            "icon": "🎵",
+            "title": "Jukebox Jury",
+            "description": "Vote on the choices for tonights music on spotify, and the staff will see your opinion. We will play the most popular choice.",
+            "buttonText": "Jukebox Jury",
+            "link": "https://www.thethreereasons.co.uk/jukebox",
+            "show": false
+          },
+          {
+            "icon": "📊",
+            "title": "15 second poll",
+            "description": "Vote on the topical choices for the week, and see how your opinion compares to others.",
+            "buttonText": "Vote",
+            "link": "https://www.thethreereasons.co.uk/poll",
+            "show": false
+          },
+          {
+            "icon": "🍺",
+            "title": "Real Ale",
+            "description": "Vote on the next real ale rotation",
+            "buttonText": "Next Real Ale",
+            "link": "https://www.thethreereasons.co.uk/poll",
+            "show": false
+          },
+          {
+            "icon": "❓",
+            "title": "This weeks pub quiz",
+            "description": "We run a quiz every Monday night, test yourself amongst friends.",
+            "buttonText": "Quiz",
+            "link": "https://www.thethreereasons.co.uk/poll",
+            "show": false
+          }
+        ]
+      },
+      {
+        "name": "Connect",
+        "items": [
+          {
+            "icon": "📶",
+            "title": "Free Guest Wi-Fi",
+            "description": "Network: ThreeReasons\nPass: WeDontHaveWifi",
+            "buttonText": "Tap to Connect",
+            "link": "WIFI:S:ThreeReasons;T:WPA;P:WeDontHaveWifi;;",
+            "primary": true,
+            "show": false
+          },
+          {
+            "icon": "🌐",
+            "title": "Our Website",
+            "description": "Check out our website for more information, menus, and services.",
+            "buttonText": "Visit Website",
+            "link": "www.thethreereasons.co.uk",
+            "show": false
+          },
+          {
+            "icon": "",
+            "title": "Menu Manager",
+            "description": "The administration page for the manager of the business",
+            "buttonText": "Update Backend",
+            "link": "/ThreeReasons/admin",
+            "show": false
+          },
+          {
+            "icon": "👥",
+            "title": "Our Facebook",
+            "description": "Join our facebook group for updates, events, and community discussions.",
+            "buttonText": "Visit Facebook",
+            "link": "https://www.facebook.com/TheThreeReasonsLargs/",
+            "show": true
+          },
+          {
+            "icon": "📌",
+            "title": "Add App Page to Home Screen",
+            "description": "Save this App Page to your phone for 1-tap access. Anytime, Anyplace, Anywhere.",
+            "buttonText": "Add to Home Screen",
+            "link": "www.addtohomescreen.com",
+            "show": false
+          },
+          {
+            "icon": "📣",
+            "title": "Bands, Events, Promotions & General Comms",
+            "description": "Check out all communications at The Three Reasons.",
+            "buttonText": "News & Events",
+            "link": "https://www.facebook.com/events",
+            "show": true
+          }
+        ]
+      },
+      {
+        "name": "We hope you find helpful",
+        "items": [
+          {
+            "icon": "🚕",
+            "title": "Call a taxi",
+            "description": "Taxi!, Find our very trusted and preferred taxi services. One button ring!",
+            "Taxis": [
+              {
+                "name": "SK Taxis",
+                "phone": "07855 731298",
+                "note": "Three Reasons customers only"
+              },
+              {
+                "name": "The Three Reasons Cabs",
+                "phone": "01475 672330",
+                "note": "We'll pick you up!"
+              }
+            ],
+            "buttonText": "Taxis",
+            "link": "#taxi-modal",
+            "show": true
+          },
+          {
+            "icon": "🚌",
+            "title": "McGills Bus Tracker",
+            "description": "This will take you to the local bus service, and you can track the bus via GPS",
+            "buttonText": "Track Bus",
+            "link": "https://www.mcgillsbuses.co.uk/services/McG/901",
+            "show": true
+          }
+        ]
+      }
+    ]
   },
   "Categories": [
     {
@@ -1000,7 +1086,7 @@
     {
       "name": "Traditional Favourites",
       "subtitle": "Available in our regular generous portion or for the smaller appetites a reduced offering!",
-      "footnote": "Add grilled chicken breast \u00A33.50 Add crispy bacon \u00A31.50"
+      "footnote": "Add grilled chicken breast £3.50 Add crispy bacon £1.50"
     },
     {
       "name": "Char Grill Specialities",
@@ -1010,7 +1096,7 @@
     {
       "name": "Burgers",
       "subtitle": "Served with salad, chips and side of coleslaw.",
-      "footnote": "Top Your Burger - Choose from mature cheddar, bacon, haggis, peppercorn sauce, fried onions, giant pickle, fried egg, chilli con carne - \u00A31.25 each."
+      "footnote": "Top Your Burger - Choose from mature cheddar, bacon, haggis, peppercorn sauce, fried onions, giant pickle, fried egg, chilli con carne - £1.25 each."
     },
     {
       "name": "Loaded Flat Breads",
@@ -1019,12 +1105,12 @@
     {
       "name": "The Deli",
       "subtitle": "A selection of artisan fillings available in a toasted ciabatta, gluten-free ciabatta or toasted bloomer bread. All served with homemade coleslaw, freshly dressed salad and hand-cooked crisps.",
-      "footnote": "Add a portion of chips or a bowl of soup to any of the above \u00A33.00"
+      "footnote": "Add a portion of chips or a bowl of soup to any of the above £3.00"
     },
     {
       "name": "Kids Menu",
       "subtitle": "Please note kids meals are available only for 14 years and under.",
-      "footnote": "Robinson\u0027s diluting juice (\u00A30.95), Kid\u0027s ice cream with sauce (\u00A32.25). All three for \u00A37.75."
+      "footnote": "Robinson's diluting juice (£0.95), Kid's ice cream with sauce (£2.25). All three for £7.75."
     },
     {
       "name": "Sides"
